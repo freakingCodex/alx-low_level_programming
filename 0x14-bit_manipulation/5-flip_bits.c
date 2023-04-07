@@ -1,8 +1,4 @@
-/*
- * File: 5-flip_bits.c
- * Auth: Brennan D Baraban
- */
-
+#include <stdio.h>
 #include "main.h"
 
 /**

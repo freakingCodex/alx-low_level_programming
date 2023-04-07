@@ -1,8 +1,4 @@
-/*
- * File: 4-clear_bit.c
- * Auth: Brennan D Baraban
- */
-
+#include <stdio.h>
 #include "main.h"
 
 /**

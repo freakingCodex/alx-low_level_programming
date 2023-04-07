@@ -1,9 +1,8 @@
-/*
- * File: 1-print_binary.c
- * Auth: Brennan D Baraban
- */
 
+
+#include <stdio.h>
 #include "main.h"
+
 
 /**
  * print_binary - Prints the binary representation of a number.
